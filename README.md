@@ -75,15 +75,15 @@ src/
 
 - Date: Apr. 14, 2026 10:30
 - Type: DEPOSIT
-- Amount: R$ 500.00
+- Amount: $500.00
 - Description: Deposit
 ---
 - Date: Apr. 14, 2026 11:00
 - Type: TRANSFER
-- Amount: R$ 200.00
+- Amount: $200.00
 - Description: Transfer to account 2
 ---
-- Current Balance: R$ 300.00
+- Current Balance: $300.00
 
 ---
 
