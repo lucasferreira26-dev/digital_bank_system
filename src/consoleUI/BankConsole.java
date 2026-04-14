@@ -517,13 +517,13 @@ public class BankConsole {
 
                        System.out.println("Date: " + t.getDateTime().format(formatter));
                        System.out.println("Type: " + t.getType());
-                       System.out.println("Amount: R$" + t.getAmount());
+                       System.out.println("Amount: $" + t.getAmount());
                        System.out.println("Description: " + t.getDescription());
 
                        System.out.println("-----------------------------------");
                    }
 
-                   System.out.println("Current Balance: R$" + account.getBalance());
+                   System.out.println("Current Balance: $" + account.getBalance());
                    break;
                 case 2:
                     System.out.println("❌ Operation cancelled!");

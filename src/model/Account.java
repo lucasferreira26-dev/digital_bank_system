@@ -87,7 +87,7 @@ public abstract class Account {
         return "===== Account =====" +
                 "\naccountNumber: " + accountNumber +
                 "\nagency: " + agency +
-                "\nbalance: R$" + balance +
+                "\nbalance: $" + balance +
                 "\nowner: " + owner.getSsn() + ", " + owner.getName() +
                 "\nactive: " + active +
                 "\n";
