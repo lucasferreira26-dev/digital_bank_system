@@ -2,12 +2,14 @@ package util;
 
 import exception.InvalidClientException;
 
+// This class search to avoid errors in users input on clients data
 public class AuthenticateClient {
 
     private AuthenticateClient(){
 
     }
 
+    // This single method realizes all methods in this class
     public static void validate(String name, String ssn, String email, String phone, int age){
         verifyName(name);
         verifySsn(ssn);
