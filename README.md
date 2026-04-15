@@ -93,7 +93,7 @@ src/
 ![Menu](images/menu.png)
 
 ## 🏦 Open Account
-![Open_Account]{(images/open_account.png)
+![Open_Account](images/open_account.png)
 
 ## 💰 Deposit Operation
 ![Deposit](images/deposit.png)
